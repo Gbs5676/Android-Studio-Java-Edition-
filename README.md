@@ -1,4 +1,4 @@
-# Android-Studio-Java-Edition-
+# Android-Studio-Mobile-Java-Edition-
 Create, develop apps for Android, on Android, using Java, in a simple and uncomplicated way.
 
 Have you thought about creating native mobile apps from your phone without complexity through a simple and direct interface? This is possible, meet Android Studio Java Edition, your coding partner for Android development.
